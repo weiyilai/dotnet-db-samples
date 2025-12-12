@@ -113,6 +113,7 @@ Entity Framework Core
 * Getting Started Sample: Demonstrates a basic Oracle EF Core scenario using migrations and scaffolding. <br>
 * JSON Columns Sample: Demonstrates how to create an owned entity, insert, query, update, and delete JSON column data. <br>
 * Keyless Entity Types Sample: Demonstrates Oracle EF Core keyless entity types with relational and materialized views. <br>
+* Spatial Sample: Demonstrates creating, querying, modifying, and deleting spatial data with Oracle Database and NetTopologySuite. <br>
 * Stored Procedure Result Set Samples: Demonstrates using PL/SQL that returns either an explicitly or implicitly bound REF Cursor. <br>
 * T4 Text Template Samples: Demonstrates data type mapping customization when scaffolding.
 
@@ -181,4 +182,5 @@ User-Defined Types (UDT)
 * Ref Sample: Demonstrates how to fetch UDTs referenced by REFs. <br>
 * Ref Inheritance Sample: Demonstrates how to obtain and update Custom Type objects from OracleRef objects. <br>
 * VARRAY Sample: Demonstrates how to map, fetch, and manipulate the Oracle VARRAY as a custom object. 
+
 
